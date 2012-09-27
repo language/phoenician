@@ -1,9 +1,5 @@
 ### ! The Last of the Phoenicians
-Many writing systems that we use today descended directly from the right-to-left "abjad" (no vowels) created by Phoenicians in 1050 BC.
 
-* alf ("ox") **ʾ [ʔ]** 10900 => alpha Αα 1 => Aa
-* bet ("house") **b [b]** 10901 => beta Ββ 2 => Bb
-* gaml (### ! The Last of the Phoenicians
 Many writing systems that we use today descended directly from the right-to-left "abjad" (no vowels) created by Phoenicians in 1050 BC.
 
 * [alf](http://pict.io/alf) ("ox") **ʾ [ʔ]** 10900 => alpha Αα 1 => Aa
